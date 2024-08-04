@@ -25,8 +25,10 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 
 ### Work Experience
 ***
-![Octocat](/assets/img/Tesla_symbol.png)
-#### [Production Control Intern, Tesla, Inc.](./Tesla.md)
+[![Octocat](/assets/img/Tesla_symbol.png)](./Tesla.md)
+<img src="/assets/img/Tesla_symbol.png" width="300" />
+#### [Tesla, Inc.](./Tesla.md)
+#### [Production Control Intern ](./Tesla.md)
 Fremont ,CA _(May 2024 - Present)_
 - Developed a proposal for automating internal material handling labor intensive processes to the General Assembly
 
@@ -34,7 +36,9 @@ Fremont ,CA _(May 2024 - Present)_
 
 - Working on the simulation of proposed strategy for deploying Autonomous Mobile Robots on the GA3 process routes.
 
-#### [Robotics New Product Development Manager at Armstrong Dematic](./AMSTG.md)
+[![Octocat](/assets/img/amstg_dematic.png)](./AMSTG.md)
+#### [Armstrong Dematic](./AMSTG.md)
+#### [Robotics New Product Development Manager](./AMSTG.md)
 Pune, India _(July 2021 - May 2023)_
 1. **Autonomous Mobile Robots for Handling Pallets of 1 ton**
 
