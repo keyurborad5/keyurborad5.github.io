@@ -6,6 +6,20 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+# Roboticists
+
+#####Technical skills: C++, Python, ROS2, MATLAB, Rust, GO 
+### Education 
+***
+- M.Eng in Robotics _(GPA: 4.0/4.0)_   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     University of Maryland College Park, USA _(Expected graduation May 2025)_
+- M.Tech in Mechanical Design Engineering _(GPA: 9.04/10)_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Indian Institute of Technology, Bombay, India_(May 2021)_
+- B.Tech in Mechanical Engineering _(GPA: 9.21/10)_  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Vellore Institute of Technology, Chennai, India _(May 2018)_
+
+### Work Experience
+***
+##### Production Control Intern, 
+#####Tesla, Inc. _(May 2024 - Present)_
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
