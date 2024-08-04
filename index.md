@@ -26,7 +26,7 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 ### Work Experience
 ***
 <!-- [![Octocat](/assets/img/Tesla_symbol.png)](./Tesla.md) -->
-<img src="/assets/img/Tesla_symbol.png" width="100" />
+<img src="/assets/img/Tesla_symbol.png" width="100" margin-right= auto margin-left= auto />
 #### [Tesla, Inc.](./Tesla.md)
 #### [Production Control Intern ](./Tesla.md)
 Fremont ,CA _(May 2024 - Present)_
