@@ -26,7 +26,7 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 ### Work Experience
 ***
 <!-- [![Octocat](/assets/img/Tesla_symbol.png)](./Tesla.md) -->
-<img src="/assets/img/Tesla_symbol.png" width="30" />
+<img src="/assets/img/Tesla_symbol.png" width="100" />
 #### [Tesla, Inc.](./Tesla.md)
 #### [Production Control Intern ](./Tesla.md)
 Fremont ,CA _(May 2024 - Present)_
@@ -38,7 +38,7 @@ Fremont ,CA _(May 2024 - Present)_
 
 ***
 <!-- [![Octocat](/assets/img/amstg_dematic.png)](./AMSTG.md) -->
-<img src="/assets/img/amstg_dematic.png" width="30" />
+<img src="/assets/img/amstg_dematic.png" />
 #### [Armstrong Dematic](./AMSTG.md)
 #### [Robotics New Product Development Manager](./AMSTG.md)
 Pune, India _(July 2021 - May 2023)_
