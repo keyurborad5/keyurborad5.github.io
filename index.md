@@ -25,6 +25,7 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 
 ### Work Experience
 ***
+![Octocat](/assets/img/Tesla_symbol.png)
 #### [Production Control Intern, Tesla, Inc.](./Tesla.md)
 Fremont ,CA _(May 2024 - Present)_
 - Developed a proposal for automating internal material handling labor intensive processes to the General Assembly
