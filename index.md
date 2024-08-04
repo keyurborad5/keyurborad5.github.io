@@ -12,7 +12,7 @@ A passionate robotics enthusiast dedicated to pushing the boundaries of technolo
 With a strong foundation in mechanical engineering, computer science, and artificial intelligence, I thrive on creating intelligent systems that can revolutionize industries and enhance everyday life.
 
 ##### Technical skills: C++, Python, ROS2, MATLAB, Rust, GO 
-### Education 
+## EDUCATION 
 ***
 1. [**M.Eng in Robotics** _(GPA: 4.0/4.0)_](./UMDCP.md)   
 	 [University of Maryland College Park, USA _(Expected graduation May 2025)_](./UMDCP.md)
@@ -23,10 +23,10 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 3. [**B.Tech in Mechanical Engineering** _(GPA: 9.21/10)_  ](./VIT.md)
     [Vellore Institute of Technology, Chennai, India _(May 2018)_](./VIT.md)
 
-### Work Experience
+## WORK EXPERIENCE
 ***
 <!-- [![Octocat](/assets/img/Tesla_symbol.png)](./Tesla.md) -->
-<img src="/assets/img/Tesla_symbol.png" width="100" margin-right= auto margin-left= auto />
+<img src="/assets/img/Tesla_symbol.png" width="200" margin-right="auto" margin-left="auto" />
 #### [Tesla, Inc.](./Tesla.md)
 #### [Production Control Intern ](./Tesla.md)
 Fremont ,CA _(May 2024 - Present)_
@@ -50,7 +50,7 @@ Pune, India _(July 2021 - May 2023)_
 	- Designed in-house Vision-based Robotic Depalletizing system using 3D camera and Yaskawa GP12 robot
 	- Developed a versatile algorithm that can integrate with any size of an industrial articulated robot with the camera on a gripper as well as the camera on a fixed stand based on application
 
-### Technical Project
+## TECHNICAL PROJECT
 ***
 1. **Agile Robotics for Industrial Automation Competition** _(Feb2024 - May2024)_
 2. **Turtlebot3 Challenge to Navigate through Path using Visual Cues** _(Feb2024 - May 2024)_
