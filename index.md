@@ -1,17 +1,12 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 # Roboticists
 
 A passionate robotics enthusiast dedicated to pushing the boundaries of technology and innovation. 
 With a strong foundation in mechanical engineering, computer science, and artificial intelligence, I thrive on creating intelligent systems that can revolutionize industries and enhance everyday life.
 
-##### Technical skills: C++, Python, ROS2, MATLAB, Rust, GO 
+### Technical skills: C++, Python, ROS2, MATLAB, Rust, GO 
 ## EDUCATION 
 ***
 1. [**M.Eng in Robotics** _(GPA: 4.0/4.0)_](./UMDCP.md)   
