@@ -8,17 +8,43 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Roboticists
 
-#####Technical skills: C++, Python, ROS2, MATLAB, Rust, GO 
+##### Technical skills: C++, Python, ROS2, MATLAB, Rust, GO 
 ### Education 
 ***
-- M.Eng in Robotics _(GPA: 4.0/4.0)_   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;     University of Maryland College Park, USA _(Expected graduation May 2025)_
-- M.Tech in Mechanical Design Engineering _(GPA: 9.04/10)_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Indian Institute of Technology, Bombay, India_(May 2021)_
-- B.Tech in Mechanical Engineering _(GPA: 9.21/10)_  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Vellore Institute of Technology, Chennai, India _(May 2018)_
+1. **M.Eng in Robotics** _(GPA: 4.0/4.0)_   
+	 University of Maryland College Park, USA _(Expected graduation May 2025)_
+	 
+2. **M.Tech in Mechanical Design Engineering** _(GPA: 9.04/10)_ 
+	 Indian Institute of Technology, Bombay, India _(May 2021)_
+	 
+3. **B.Tech in Mechanical Engineering** _(GPA: 9.21/10)_  
+	Vellore Institute of Technology, Chennai, India _(May 2018)_
 
 ### Work Experience
 ***
-##### Production Control Intern, 
-#####Tesla, Inc. _(May 2024 - Present)_
+#### Production Control Intern, Tesla, Inc.
+Fremont ,CA _(May 2024 - Present)_
+- Developed a proposal for automating internal material handling labor intensive processes to the General Assembly
+
+- Analyzed all the processes for General Assembly 3/s/x/y , routes , QPC, QPV , headcounts , for cost saving  the proposal.
+
+- Working on the simulation of proposed strategy for deploying Autonomous Mobile Robots on the GA3 process routes.
+
+#### Robotics New Product Development Manager at Armstrong Dematic
+Pune, India _(July 2021 - May 2023)_
+1. **Autonomous Mobile Robots for Handling Pallets of 1 ton**
+
+	- Prepared the case study for handling filled pallets from Robotic palletizing cells to  	Automatic Storage and Retrieval System(ASRS) and identified the Key features, interlocks needed to execute the system
+	- Contributed in mechanical design calculation for selection and manufacturing various components of the system saving 30% of overall cost of the AMR to the company
+2. **Robotic Vision-based Depalletizing System**
+	- Designed in-house Vision-based Robotic Depalletizing system using 3D camera and Yaskawa GP12 robot
+	- Developed a versatile algorithm that can integrate with any size of an industrial articulated robot with the camera on a gripper as well as the camera on a fixed stand based on application
+
+### Technical Project
+***
+1. **Agile Robotics for Industrial Automation Competition** _(Feb2024 - May2024)_
+2. **Turtlebot3 Challenge to Navigate through Path using Visual Cues** _(Feb2024 - May 2024)_
+3. **Autonomously Navigating TurtleBot3 through the Maze based on the detected object** _(Sept2023-Dec2023)_
 
 There should be whitespace between paragraphs.
 
