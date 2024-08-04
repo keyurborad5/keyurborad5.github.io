@@ -29,9 +29,9 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 <div style="text-align: center;">
   <img src="/assets/img/Tesla_symbol.png" width="200" />
 </div>
-#### [Tesla, Inc.](./Tesla.md)
+
 #### [Production Control Intern ](./Tesla.md)
-Fremont ,CA _(May 2024 - Present)_
+[**Tesla, Inc.**](./Tesla.md) | Fremont ,CA _(May 2024 - Present)_
 - Developed a proposal for automating internal material handling labor intensive processes to the General Assembly
 
 - Analyzed all the processes for General Assembly 3/s/x/y , routes , QPC, QPV , headcounts , for cost saving  the proposal.
@@ -41,9 +41,9 @@ Fremont ,CA _(May 2024 - Present)_
 ***
 <!-- [![Octocat](/assets/img/amstg_dematic.png)](./AMSTG.md) -->
 <img src="/assets/img/amstg_dematic.png" />
-#### [Armstrong Dematic](./AMSTG.md)
+
 #### [Robotics New Product Development Manager](./AMSTG.md)
-Pune, India _(July 2021 - May 2023)_
+[**Armstrong Dematic**](./AMSTG.md) | Pune, India _(July 2021 - May 2023)_
 1. **Autonomous Mobile Robots for Handling Pallets of 1 ton**
 
 	- Prepared the case study for handling filled pallets from Robotic palletizing cells to  	Automatic Storage and Retrieval System(ASRS) and identified the Key features, interlocks needed to execute the system
