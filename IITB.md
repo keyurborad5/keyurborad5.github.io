@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: default
----
+--- -->
 
 ## Welcome to IITB
 <!DOCTYPE html>
