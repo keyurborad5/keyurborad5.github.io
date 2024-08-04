@@ -18,10 +18,10 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 	 [University of Maryland College Park, USA _(Expected graduation May 2025)_](./UMDCP.md)
 	 
 2. [**M.Tech in Mechanical Design Engineering** _(GPA: 9.04/10)_ ](./IITB.md)
-    Indian Institute of Technology, Bombay, India _(May 2021)_](./IITB.md)
+    [Indian Institute of Technology, Bombay, India _(May 2021)_](./IITB.md)
 	 
 3. [**B.Tech in Mechanical Engineering** _(GPA: 9.21/10)_  ](./VIT.md)
-	[Vellore Institute of Technology, Chennai, India _(May 2018)_](./VIT.md)
+    [Vellore Institute of Technology, Chennai, India _(May 2018)_](./VIT.md)
 
 ### Work Experience
 ***
