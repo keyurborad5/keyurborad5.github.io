@@ -25,8 +25,8 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 
 ### Work Experience
 ***
-[![Octocat](/assets/img/Tesla_symbol.png)](./Tesla.md)
-<img src="/assets/img/Tesla_symbol.png" width="300" />
+<!-- [![Octocat](/assets/img/Tesla_symbol.png)](./Tesla.md) -->
+<img src="/assets/img/Tesla_symbol.png" width="30" />
 #### [Tesla, Inc.](./Tesla.md)
 #### [Production Control Intern ](./Tesla.md)
 Fremont ,CA _(May 2024 - Present)_
@@ -36,7 +36,9 @@ Fremont ,CA _(May 2024 - Present)_
 
 - Working on the simulation of proposed strategy for deploying Autonomous Mobile Robots on the GA3 process routes.
 
-[![Octocat](/assets/img/amstg_dematic.png)](./AMSTG.md)
+***
+<!-- [![Octocat](/assets/img/amstg_dematic.png)](./AMSTG.md) -->
+<img src="/assets/img/amstg_dematic.png" width="30" />
 #### [Armstrong Dematic](./AMSTG.md)
 #### [Robotics New Product Development Manager](./AMSTG.md)
 Pune, India _(July 2021 - May 2023)_
