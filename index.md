@@ -31,7 +31,7 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 
 - Analyzed all the processes for General Assembly 3/s/x/y , routes , QPC, QPV , headcounts , for cost saving  the proposal.
 
-- Working on the simulation of proposed strategy for deploying Autonomous Mobile Robots on the GA3 process routes.
+- Worked on the simulation and  proposed strategy that helped to reduce headcount by implementing optimum number of Autonomous Mobile Robots on the GA3 process routes.
 
 ***
 <!-- [![Octocat](/assets/img/amstg_dematic.png)](./AMSTG.md) -->
