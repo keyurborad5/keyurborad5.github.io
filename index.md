@@ -9,13 +9,13 @@ With a strong foundation in mechanical engineering, computer science, and artifi
 ### Technical skills: C++, Python, ROS2, MATLAB, Rust, GO 
 ## EDUCATION 
 ***
-1. **M.Eng in Robotics** _(GPA: 4.0/4.0)_
+1. [**M.Eng in Robotics**](./UMDCP.md) _(GPA: 4.0/4.0)_ <br>
    [University of Maryland College Park, USA _(Expected graduation May 2025)_](./UMDCP.md)
 	 
-2. **M.Tech in Mechanical Design Engineering** _(GPA: 9.04/10)_
+2. [**M.Tech in Mechanical Design Engineering**](./IITB.md) _(GPA: 9.04/10)_<br>
    [Indian Institute of Technology, Bombay, India _(May 2021)_](./IITB.md)
 	 
-3. **B.Tech in Mechanical Engineering** _(GPA: 9.21/10)_
+3. [**B.Tech in Mechanical Engineering**](./VIT.md) _(GPA: 9.21/10)_<br>
    [Vellore Institute of Technology, Chennai, India _(May 2018)_](./VIT.md)
 
 ## WORK EXPERIENCE
