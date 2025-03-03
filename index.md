@@ -6,16 +6,7 @@ layout: default
 A passionate robotics enthusiast dedicated to pushing the boundaries of technology and innovation. 
 With a strong foundation in mechanical engineering, computer science, and artificial intelligence, I thrive on creating intelligent systems that can revolutionize industries and enhance everyday life.
 
-#### Technical skills: 
-C++, Python, ROS/ROS2, MATLAB, AWS Cloud  <br>
-#### Framework: 
-Scikit-learn, YOLO, OpenMP, OpenCV, Open3D, Pytorch, TensorFlow, Cuda, Keras, SKLearn, OpenAI Gym, GIT, CI/CD, Unit Testing <br>
-#### Hardware:  
-- Camera: Intel RealSense D435 ,Oak-D Pro ,Cognex
-- Sensors: PnF Lidar, Sick Lidar, LP IMU
-- Computing Board: Voxl-2, RPI 5 with Linux
-- Robots:Yaskawa MPL 160, ABB
-- Others:  Navitec Systems, , FBLM Robotec Controller, Nidec Motors, , CAN Bus, Mechanical/pneumatic actuators, Pixhawk, Arduino
+
 ## EDUCATION 
 ***
 1. [**M.Eng in Robotics**](./UMDCP.md) _(GPA: 4.0/4.0)_ <br>
@@ -56,6 +47,17 @@ Scikit-learn, YOLO, OpenMP, OpenCV, Open3D, Pytorch, TensorFlow, Cuda, Keras, SK
 2. **Robotic Vision-based Depalletizing System**
 	- Designed ML-based Robotic Depalletizer using RGBD camera and Yaskawa MP160 robot reducing system cost by 80
 	- Developed a versatile algorithm that can integrate with any size of an industrial articulated robot with the camera on a gripper as well as the camera on a fixed stand based on application
+
+#### Technical skills: 
+C++, Python, ROS/ROS2, MATLAB, AWS Cloud  <br>
+#### Framework: 
+Scikit-learn, YOLO, OpenMP, OpenCV, Open3D, Pytorch, TensorFlow, Cuda, Keras, SKLearn, OpenAI Gym, GIT, CI/CD, Unit Testing <br>
+#### Hardware:  
+- Camera: Intel RealSense D435 ,Oak-D Pro ,Cognex
+- Sensors: PnF Lidar, Sick Lidar, LP IMU
+- Computing Board: Voxl-2, RPI 5 with Linux
+- Robots:Yaskawa MPL 160, ABB
+- Others:  Navitec Systems, , FBLM Robotec Controller, Nidec Motors, , CAN Bus, Mechanical/pneumatic actuators, Pixhawk, Arduino<br>
 
 ## TECHNICAL PROJECT
 ***
