@@ -17,5 +17,8 @@ Collaborating with brilliant peers and faculty, I’ve tackled cutting-edge proj
   Your browser does not support the video tag.
 </video>
 
+[Watch my video](https://github.com/keyurborad5/keyurborad5.github.io/blob/main/assets/img/umdcp/umdcp.mp4)
+
+![My Video](assets/umdcp/umdcp.gif)
 
 [back](./)
