@@ -13,12 +13,12 @@ Pursuing my Master’s in Robotics Engineering at the University of Maryland, Co
 Collaborating with brilliant peers and faculty, I’ve tackled cutting-edge projects in aerial robotics, humanoid systems, and machine learning-driven decision-making, further refining my passion for innovation in robotics. UMDCP has not only expanded my knowledge but also reinforced my vision of building technology that improves lives on a global scale.
 
 <video width="600" controls>
-  <source src="assets/umdcp/umdcp.mp4" type="video/mp4">
+  <source src="assets/img/umdcp/umdcp.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 [Watch my video](https://github.com/keyurborad5/keyurborad5.github.io/blob/main/assets/img/umdcp/umdcp.mp4)
 
-![My Video](assets/umdcp/umdcp.gif)
+![My Video](assets/img/umdcp/umdcp.gif)
 
 [back](./)
