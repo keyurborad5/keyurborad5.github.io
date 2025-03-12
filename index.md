@@ -76,7 +76,7 @@ Scikit-learn, YOLO, OpenMP, OpenCV, Open3D, Pytorch, TensorFlow, Cuda, Keras, SK
 6. **Genetic Algorithm based approach for optimum path planning** _(Feb2024 - May2024)_
     - Skills and Tools:  Python, RRT/RRT*, PRM, A*, Djkstra
 
-7. **Agile Robotics for Industrial Automation Competition** _(Feb2024 - May2024)_
+7. **Kitting, Assembling and pick & place using UR5 and trasporting kit using AGV in ROS2** _(Feb2024 - May2024)_
     - Skills and Tools: ROS2 Humble, Ubuntu22 , Gazebo Classic, C++, Software Architecture, Computer Vision, YOLOV8, ROS2 Custom Msgs, Collaboration, ARIAC 2023
 8. **Turtlebot3 Challenge to Navigate through Path using Visual Cues** _(Feb2024 - May 2024)_
      - Skills and Tools: ROS2 Humble, Ubuntu22 , Gazebo Classic, Python, ROS2 Package Architecture, Computer Vision, Collaboration, Turtlebot3 Waffle, YOLOV8, Hardware Implementation 
