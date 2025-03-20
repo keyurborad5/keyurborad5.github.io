@@ -2,9 +2,10 @@
 layout: default
 ---
 # Roboticists
-
+<p style="text-align: justify;">
 A passionate robotics enthusiast dedicated to pushing the boundaries of technology and innovation. 
 With a strong foundation in mechanical engineering, computer science, and artificial intelligence, I thrive on creating intelligent systems that can revolutionize industries and enhance everyday life.
+</p>
 
 
 ## EDUCATION 

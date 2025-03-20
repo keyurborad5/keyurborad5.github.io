@@ -8,31 +8,27 @@ description: "My Journey in IITB as masters student"
 
 ![Project Screenshot](assets/img/iitb/iitb_maingate.jpg)
 
-## Project Overview
+### My Journey at IITB
+<p style="text-align: justify;">
+In 2018, after completing my bachelor's degree, I joined the Indian Institute of Technology Bombay (IITB) for my Master's in Mechanical Design Engineering. Gaining admission to IITB was a milestone in my academic journey—I appeared for GATE 2018 in Mechanical Engineering and secured a score of 811/1000 with an impressive 99.94 percentile among 190,000 candidates.
 
-Here you can write a detailed description of your project. Explain what it is, how it works, and what technologies were used.
+At IITB, I had the privilege of learning from some of the most renowned professors in the country and collaborating with brilliant minds in mechanical engineering. My coursework covered core topics such as:
 
-## Features
+- Stress Analysis
+- Kinematics and Dynamics of Machinery
+- System Modeling, Dynamics, and Control
+- Robotics
+- Computer-Aided Simulation of Machines
+- Design Optimization
+- Design for Manufacturing
 
-- **Feature 1**: Description of feature 1
-- **Feature 2**: Description of feature 2
 
-## Demo
+ As I progressed through my master’s program, my interest in  robotics grew stronger. This passion led me to focus my thesis on Human-Robot Collaboration for Object Handling using a Cable-Driven Parallel Robot.
 
-You can embed videos or other media here:
+My time at IITB was a transformative phase that laid the foundation for my deeper exploration into robotics, automation, and intelligent systems.
+</p>
 
-<!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
-## Code
 
-If you have code repositories, you can link to them here:
-
-<!-- - [GitHub Repository](https://github.com/yourusername/your-repo) -->
-
-## Additional Information
-
-Any other details or information related to the project can be included here.
-
-_yay_
 
 [back to main page](./)
