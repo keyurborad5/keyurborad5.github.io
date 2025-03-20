@@ -84,6 +84,10 @@ Scikit-learn, YOLO, OpenMP, OpenCV, Open3D, Pytorch, TensorFlow, Cuda, Keras, SK
 9. **Autonomously Navigating TurtleBot3 through the Maze based on the detected object** _(Sept2023-Dec2023)_
     - Skills and Tools: ROS2 Foxy, Ubuntu20, Gazebo Classic, C++, ROS2 Package Architecture
 
+
+## VOLUNTEERING
+
+
 <!-- There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
