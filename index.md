@@ -87,6 +87,8 @@ Scikit-learn, YOLO, OpenMP, OpenCV, Open3D, Pytorch, TensorFlow, Cuda, Keras, SK
 
 ## VOLUNTEERING
 
+![FRC_chesapeake](assets/img/iitb/frc.png)
+
 
 <!-- There should be whitespace between paragraphs.
 
