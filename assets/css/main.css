@@ -1795,12 +1795,24 @@ input, select, textarea {
 			.image.avatar64 img {
 				width: 64px;
 				height: 85px;
+				
 			}
 
 		.image.fit {
 			display: block;
 			width: 100%;
 		}
+			.image.fit img {
+				display: block;
+				width: 100%;
+				transition: transform 0.3s ease; /* Smooth transition */
+
+			}
+			.image.fit img:hover {
+				display: block;
+				width: 100%;
+				transform: scale(1.5); /* Enlarge the image to 120% */
+			}
 
 		.image.featured {
 			display: block;
